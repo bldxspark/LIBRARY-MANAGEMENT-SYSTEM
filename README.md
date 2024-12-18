@@ -72,10 +72,11 @@ We welcome contributions to improve this project! If you have suggestions or new
 ## Screenshots 📸
 
 ### Home Page
-![LOGIN PAGE](screenshots/LOGIN.png)
+![LOGIN PAGE](login.png)
 
 ### Book Issue Section
-![Book Issue](screenshots/book_issue.png)
+![Book Issue](database.png)
 
-
+### Sections 
+![Sections](front.png)
 ### Support

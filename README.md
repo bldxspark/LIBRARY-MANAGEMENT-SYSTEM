@@ -79,4 +79,7 @@ We welcome contributions to improve this project! If you have suggestions or new
 
 ### Sections 
 ![Sections](front.png)
+
 ### Support
+If you encounter any issues or have questions, feel free to open an issue in the repository or contact the maintainer at [durgeshtiwari000x@gmail.com].
+
